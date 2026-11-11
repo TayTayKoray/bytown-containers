@@ -1,0 +1,3 @@
+Q1: the file written inside the container results in the file being deleted when the container is deleted
+Q2: it doesnt have a published port as a proxy was used instead
+Q3: image is the foundation while the container is the running image
